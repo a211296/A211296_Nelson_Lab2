@@ -301,14 +301,14 @@ fun StatsCard() {
                     "0",
                     style = MaterialTheme.typography.headlineMedium.copy(
                         fontFamily = FontFamily.Serif,
-                        color = Color(0xFF00695C) // KEKAL
+                        color = Color(0xFF00695C)
                     )
                 )
                 Text(
                     "Waste prevented (KG)",
                     style = MaterialTheme.typography.bodyMedium.copy(
                         fontFamily = FontFamily.Serif,
-                        color = Color(0xFF616161) // KEKAL
+                        color = Color(0xFF616161)
                     ),
                     textAlign = TextAlign.Center
                 )
@@ -321,14 +321,14 @@ fun StatsCard() {
                     "RM 0",
                     style = MaterialTheme.typography.headlineMedium.copy(
                         fontFamily = FontFamily.Serif,
-                        color = Color(0xFF00695C) // KEKAL
+                        color = Color(0xFF00695C)
                     )
                 )
                 Text(
                     "Value recovered",
                     style = MaterialTheme.typography.bodyMedium.copy(
                         fontFamily = FontFamily.Serif,
-                        color = Color(0xFF616161) // KEKAL
+                        color = Color(0xFF616161)
                     ),
                     textAlign = TextAlign.Center
                 )
